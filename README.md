@@ -22,6 +22,11 @@ A full-stack e-commerce project built with Postgres, Express, React and Node.
 
 [![ERD](https://user-images.githubusercontent.com/51405947/133893279-8872c475-85ff-47c4-8ade-7d9ef9e5325a.png)](https://dbdiagram.io/d/5fe320fa9a6c525a03bc19db)
 
+#AWS DEPLOYMENT
+
+![image](https://github.com/user-attachments/assets/1ab87bad-b900-43ac-9cd0-75e13f24c9a5)
+
+
 ## Run Locally
 
 Clone the project
